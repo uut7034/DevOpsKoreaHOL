@@ -1,5 +1,5 @@
 # 깃헙 연동 실습 완료
-## 8번 티켓도 완료 될겁니다. 되었나요???
+## 8번 티켓도 완료 될겁니다. 되었나요????
 
 # Azure DevOps와 Github간 CI/CD 연동 테스트 입니다.
 ## 티켓 자동 완료에 대해서는 다음 문서를 참조 해주세요 [Link](https://docs.microsoft.com/en-us/azure/devops/repos/git/resolution-mentions?view=azure-devops)
